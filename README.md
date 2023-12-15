@@ -35,5 +35,5 @@ By developing this application, I aim to deepen my expertise in:
 To get started with the Typing Practice Application, clone the repository and open the project in Visual Studio. Ensure you have the .NET Framework installed on your system to run the application.
 
 ```bash
-git clone https://github.com/pepolx/typing-practice-app.git
+git clone https://github.com/pepolx/WPFTypeApp.git
 ```
