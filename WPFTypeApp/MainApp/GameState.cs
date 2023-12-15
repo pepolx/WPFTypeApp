@@ -10,7 +10,7 @@ public class GameState
 
     public void StartNewGame()
     {
-        CurrentText = TextGenerator.GenerateRandomText(5);
+        CurrentText = TextGenerator.GenerateRandomText(12);
         CurrentPosition = 0;
         IncorrectPositions.Clear();
     }

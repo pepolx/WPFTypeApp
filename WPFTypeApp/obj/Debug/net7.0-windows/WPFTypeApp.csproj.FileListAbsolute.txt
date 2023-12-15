@@ -16,5 +16,5 @@ D:\RdierProjects\WPFTypeApp\WPFTypeApp\obj\Debug\net7.0-windows\refint\WPFTypeAp
 D:\RdierProjects\WPFTypeApp\WPFTypeApp\obj\Debug\net7.0-windows\WPFTypeApp.pdb
 D:\RdierProjects\WPFTypeApp\WPFTypeApp\obj\Debug\net7.0-windows\WPFTypeApp.genruntimeconfig.cache
 D:\RdierProjects\WPFTypeApp\WPFTypeApp\obj\Debug\net7.0-windows\ref\WPFTypeApp.dll
-D:\RdierProjects\WPFTypeApp\WPFTypeApp\obj\Debug\net7.0-windows\View\Main\MainWindow.g.cs
-D:\RdierProjects\WPFTypeApp\WPFTypeApp\obj\Debug\net7.0-windows\View\Main\MainWindow.baml
+D:\RdierProjects\WPFTypeApp\WPFTypeApp\obj\Debug\net7.0-windows\MainApp\View\MainWindow.baml
+D:\RdierProjects\WPFTypeApp\WPFTypeApp\obj\Debug\net7.0-windows\MainApp\View\MainWindow.g.cs
